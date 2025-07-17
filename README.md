@@ -1,4 +1,4 @@
-# Understanding-Zero-Trust
+# Understanding Zero Trust
 
 This paper introduces the 7 Pillars and 7 Elements of the Zero Trust security model, a modern approach that assumes no user, device, or application should be trusted by default, even within internal network perimeters. The goal is to enforce strict verification, or "never trust, always verify," throughout an organization.
 
